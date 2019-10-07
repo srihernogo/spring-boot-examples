@@ -13,7 +13,6 @@
 	<artifactId>spring-boot-paging-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-paging-example</name>
-	<description>Demo project for Spring Boot Paging Example</description>
 
 	<properties>
 		<java.version>1.8</java.version>
