@@ -3,6 +3,7 @@ buildscript {
 		springBootVersion = '2.0.4.RELEASE'
 	}
 	repositories {
+		mavenLocal()
 		mavenCentral()
 	}
 	dependencies {
@@ -20,6 +21,7 @@ version = '0.0.1-SNAPSHOT'
 sourceCompatibility = 11
 
 repositories {
+	mavenLocal()
 	mavenCentral()
 }
 
