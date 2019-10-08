@@ -1,2 +1,2 @@
 # spring-boot-examples
-Popular Spring Boot Examples
+Spring Boot Examples
